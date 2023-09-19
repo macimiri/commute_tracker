@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "commute-tracker"
+version = "0.1.0"
+description = ""
+authors = ["Maci Miri <macis.miri@gmail.com>"]
+readme = "README.md"
+packages = [{include = "commute_tracker"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+googlemaps = "^4.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
