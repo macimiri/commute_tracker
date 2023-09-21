@@ -50,8 +50,15 @@ if __name__ == '__main__':
                     for col in range(len(end_loc)):
                         origin = dist_mat['origin_addresses'][row]
                         destination = dist_mat['destination_addresses'][col]
-                        duration_in_traffic = dist_mat['rows'][row]['elements'][col]['duration_in_traffic']['text']
+                        duration_in_traffic = dist_mat['rows'][row]['elements']\
+                            [col]['duration_in_traffic']['text']
                         if origin != destination:
-                            csvwriter.writerow([origin, destination, current_date, current_day_of_week, current_time, duration_in_traffic])
+                            csvwriter.writerow([
+                                origin, 
+                                destination, 
+                                current_date, 
+                                current_day_of_week, 
+                                current_time, 
+                                duration_in_traffic])
 
         sleep(60)

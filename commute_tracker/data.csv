@@ -377,3 +377,9 @@ origin,destination,date,day,time,duration_in_traffic
 "301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.09.21,Thursday,09:45,25 mins
 "116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.09.21,Thursday,09:45,14 mins
 "116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.09.21,Thursday,09:45,30 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.09.21,Thursday,10:00,22 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.09.21,Thursday,10:00,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.09.21,Thursday,10:00,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.09.21,Thursday,10:00,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.09.21,Thursday,10:00,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.09.21,Thursday,10:00,29 mins
