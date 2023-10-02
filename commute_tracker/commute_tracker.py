@@ -33,7 +33,9 @@ if __name__ == '__main__':
 
         if (((int(now.strftime('%M')) % 15) == 0) 
             and now.time() >= day_start_time
-            and now.time() <= day_end_time):
+            and now.time() <= day_end_time
+            and current_day_of_week != "Saturday"
+            and current_day_of_week != "Sunday"):
             # perform distance matrix api call
             dist_mat = gmaps.distance_matrix(
                 origins=start_loc, 
