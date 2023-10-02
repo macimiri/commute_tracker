@@ -7,8 +7,11 @@ readme = "README.md"
 packages = [{include = "commute_tracker"}]
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "<3.13, >=3.9"
 googlemaps = "^4.10.0"
+pandas = "^2.1.1"
+matplotlib = "^3.8.0"
+polars = "^0.19.6"
 
 
 [build-system]
