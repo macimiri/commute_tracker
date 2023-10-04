@@ -3725,3 +3725,705 @@ origin,destination,date,day,time,duration_in_traffic
 "301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,10:15,25 mins
 "116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,10:15,12 mins
 "116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,10:15,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,10:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,10:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,10:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,10:30,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,10:30,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,10:30,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,10:45,19 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,10:45,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,10:45,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,10:45,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,10:45,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,10:45,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,11:00,19 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,11:00,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,11:00,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,11:00,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,11:00,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,11:00,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,11:15,20 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,11:15,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,11:15,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,11:15,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,11:15,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,11:15,28 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,11:30,19 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,11:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,11:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,11:30,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,11:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,11:30,28 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,11:45,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,11:45,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,11:45,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,11:45,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,11:45,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,11:45,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,12:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,12:00,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,12:00,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,12:00,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,12:00,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,12:00,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,12:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,12:15,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,12:15,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,12:15,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,12:15,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,12:15,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,12:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,12:30,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,12:30,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,12:30,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,12:30,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,12:30,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,12:45,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,12:45,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,12:45,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,12:45,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,12:45,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,12:45,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,13:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,13:00,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,13:00,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,13:00,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,13:00,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,13:00,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,13:15,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,13:15,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,13:15,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,13:15,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,13:15,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,13:15,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,13:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,13:30,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,13:30,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,13:30,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,13:30,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,13:30,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,13:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,13:45,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,13:45,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,13:45,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,13:45,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,13:45,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,14:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,14:00,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,14:00,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,14:00,27 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,14:00,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,14:00,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,14:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,14:15,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,14:15,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,14:15,27 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,14:15,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,14:15,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,14:30,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,14:30,15 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,14:30,22 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,14:30,31 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,14:30,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,14:30,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,14:45,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,14:45,15 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,14:45,23 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,14:45,31 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,14:45,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,14:45,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,15:00,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,15:00,15 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,15:00,22 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,15:00,30 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,15:00,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,15:00,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,15:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,15:15,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,15:15,21 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,15:15,28 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,15:15,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,15:15,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,15:30,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,15:30,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,15:30,24 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,15:30,31 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,15:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,15:30,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,15:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,15:45,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,15:45,23 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,15:45,30 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,15:45,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,15:45,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,16:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,16:00,15 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,16:00,22 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,16:00,30 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,16:00,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,16:00,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,16:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,16:15,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,16:15,22 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,16:15,29 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,16:15,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,16:15,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,16:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,16:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,16:30,25 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,16:30,31 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,16:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,16:30,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,16:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,16:45,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,16:45,26 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,16:45,35 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,16:45,16 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,16:45,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,17:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,17:00,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,17:00,26 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,17:00,33 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,17:00,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,17:00,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,17:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,17:15,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,17:15,26 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,17:15,33 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,17:15,17 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,17:15,29 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,17:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,17:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,17:30,24 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,17:30,31 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,17:30,16 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,17:30,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,17:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,17:45,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,17:45,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,17:45,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,17:45,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,17:45,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,18:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,18:00,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,18:00,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,18:00,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,18:00,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,18:00,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,18:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,18:15,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,18:15,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,18:15,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,18:15,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,18:15,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,18:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,18:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,18:30,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,18:30,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,18:30,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,18:30,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,18:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,18:45,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,18:45,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,18:45,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,18:45,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,18:45,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,19:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,19:00,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,19:00,17 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,19:00,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,19:00,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,19:00,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,19:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,19:15,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,19:15,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,19:15,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,19:15,12 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,19:15,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,19:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,19:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,19:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,19:30,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,19:30,12 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,19:30,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,19:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,19:45,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,19:45,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.02,Monday,19:45,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.02,Monday,19:45,12 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.02,Monday,19:45,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,05:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,05:00,12 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,05:00,17 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,05:00,23 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,05:00,11 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,05:00,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,05:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,05:15,12 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,05:15,17 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,05:15,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,05:15,12 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,05:15,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,05:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,05:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,05:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,05:30,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,05:30,12 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,05:30,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,05:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,05:45,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,05:45,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,05:45,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,05:45,12 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,05:45,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,06:00,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,06:00,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,06:00,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,06:00,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,06:00,12 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,06:00,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,06:15,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,06:15,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,06:15,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,06:15,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,06:15,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,06:15,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,06:30,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,06:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,06:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,06:30,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,06:30,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,06:30,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,06:45,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,06:45,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,06:45,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,06:45,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,06:45,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,06:45,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,07:00,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,07:00,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,07:00,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,07:00,27 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,07:00,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,07:00,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,07:15,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,07:15,17 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,07:15,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,07:15,31 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,07:15,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,07:15,28 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,07:30,19 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,07:30,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,07:30,24 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,07:30,32 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,07:30,16 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,07:30,30 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,07:45,19 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,07:45,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,07:45,22 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,07:45,32 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,07:45,16 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,07:45,28 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,08:00,22 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,08:00,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,08:00,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,08:00,33 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,08:00,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,08:00,29 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,08:15,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,08:15,21 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,08:15,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,08:15,33 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,08:15,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,08:15,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,08:30,19 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,08:30,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,08:30,21 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,08:30,34 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,08:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,08:30,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,08:45,19 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,08:45,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,08:45,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,08:45,31 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,08:45,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,08:45,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,09:00,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,09:00,15 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,09:00,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,09:00,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,09:00,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,09:00,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,09:15,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,09:15,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,09:15,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,09:15,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,09:15,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,09:15,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,09:30,20 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,09:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,09:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,09:30,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,09:30,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,09:30,28 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,09:45,19 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,09:45,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,09:45,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,09:45,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,09:45,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,09:45,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,10:00,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,10:00,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,10:00,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,10:00,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,10:00,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,10:00,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,10:15,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,10:15,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,10:15,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,10:15,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,10:15,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,10:15,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,10:30,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,10:30,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,10:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,10:30,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,10:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,10:30,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,10:45,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,10:45,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,10:45,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,10:45,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,10:45,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,10:45,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,11:00,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,11:00,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,11:00,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,11:00,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,11:00,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,11:00,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,11:15,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,11:15,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,11:15,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,11:15,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,11:15,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,11:15,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,11:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,11:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,11:30,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,11:30,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,11:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,11:30,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,11:45,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,11:45,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,11:45,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,11:45,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,11:45,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,11:45,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,12:00,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,12:00,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,12:00,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,12:00,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,12:00,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,12:00,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,12:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,12:15,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,12:15,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,12:15,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,12:15,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,12:15,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,12:30,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,12:30,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,12:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,12:30,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,12:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,12:30,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,12:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,12:45,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,12:45,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,12:45,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,12:45,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,12:45,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,13:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,13:00,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,13:00,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,13:00,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,13:00,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,13:00,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,13:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,13:15,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,13:15,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,13:15,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,13:15,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,13:15,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,13:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,13:30,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,13:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,13:30,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,13:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,13:30,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,13:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,13:45,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,13:45,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,13:45,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,13:45,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,13:45,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,14:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,14:00,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,14:00,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,14:00,27 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,14:00,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,14:00,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,14:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,14:15,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,14:15,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,14:15,27 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,14:15,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,14:15,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,14:30,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,14:30,15 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,14:30,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,14:30,28 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,14:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,14:30,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,14:45,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,14:45,15 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,14:45,21 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,14:45,29 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,14:45,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,14:45,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,15:00,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,15:00,15 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,15:00,23 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,15:00,31 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,15:00,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,15:00,28 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,15:15,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,15:15,17 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,15:15,23 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,15:15,32 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,15:15,17 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,15:15,29 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,15:30,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,15:30,17 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,15:30,24 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,15:30,34 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,15:30,16 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,15:30,29 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,15:45,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,15:45,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,15:45,24 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,15:45,35 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,15:45,16 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,15:45,28 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,16:00,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,16:00,17 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,16:00,26 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,16:00,36 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,16:00,16 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,16:00,28 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,16:15,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,16:15,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,16:15,23 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,16:15,33 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,16:15,16 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,16:15,28 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,16:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,16:30,17 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,16:30,23 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,16:30,32 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,16:30,16 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,16:30,28 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,16:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,16:45,16 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,16:45,23 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,16:45,33 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,16:45,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,16:45,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,17:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,17:00,17 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,17:00,24 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,17:00,33 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,17:00,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,17:00,28 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,17:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,17:15,17 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,17:15,23 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,17:15,31 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,17:15,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,17:15,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,17:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,17:30,16 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,17:30,23 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,17:30,30 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,17:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,17:30,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,17:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,17:45,15 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,17:45,21 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,17:45,28 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,17:45,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,17:45,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,18:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,18:00,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,18:00,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,18:00,27 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,18:00,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,18:00,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,18:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,18:15,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,18:15,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,18:15,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,18:15,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,18:15,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,18:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,18:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,18:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,18:30,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,18:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,18:30,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,18:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,18:45,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,18:45,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,18:45,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,18:45,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,18:45,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,19:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,19:00,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,19:00,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,19:00,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,19:00,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,19:00,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,19:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,19:15,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,19:15,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,19:15,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,19:15,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,19:15,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,19:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,19:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,19:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,19:30,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,19:30,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,19:30,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,19:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,19:45,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,19:45,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.03,Tuesday,19:45,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.03,Tuesday,19:45,12 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.03,Tuesday,19:45,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,05:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,05:00,12 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,05:00,17 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,05:00,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,05:00,11 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,05:00,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,05:15,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,05:15,12 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,05:15,17 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,05:15,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,05:15,11 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,05:15,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,05:30,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,05:30,12 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,05:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,05:30,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,05:30,11 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,05:30,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,05:45,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,05:45,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,05:45,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,05:45,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,05:45,12 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,05:45,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,06:00,17 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,06:00,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,06:00,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,06:00,24 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,06:00,12 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,06:00,24 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,06:15,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,06:15,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,06:15,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,06:15,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,06:15,12 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,06:15,25 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,06:30,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,06:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,06:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,06:30,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,06:30,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,06:30,26 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,06:45,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,06:45,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,06:45,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,06:45,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,06:45,13 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,06:45,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,07:00,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,07:00,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,07:00,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,07:00,26 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,07:00,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,07:00,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,07:15,19 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,07:15,16 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,07:15,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,07:15,29 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,07:15,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,07:15,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,07:30,19 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,07:30,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,07:30,21 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,07:30,35 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,07:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,07:30,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,07:45,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,07:45,21 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,07:45,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,07:45,33 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,07:45,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,07:45,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,08:00,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,08:00,22 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,08:00,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,08:00,35 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,08:00,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,08:00,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,08:15,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,08:15,21 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,08:15,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,08:15,34 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,08:15,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,08:15,29 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,08:30,18 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,08:30,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,08:30,20 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,08:30,32 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,08:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,08:30,27 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,08:45,22 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,08:45,21 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,08:45,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,08:45,31 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,08:45,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,08:45,32 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,09:00,22 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,09:00,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,09:00,19 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,09:00,28 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,09:00,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,09:00,34 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,09:15,22 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,09:15,14 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,09:15,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,09:15,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,09:15,15 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,09:15,33 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,09:30,22 mins
+"2947 Ottumwa Dr, Sacramento, CA 95835, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,09:30,13 mins
+"301 Harter Ave, Woodland, CA 95776, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,09:30,18 mins
+"301 Harter Ave, Woodland, CA 95776, USA","116 N 16th St, Sacramento, CA 95811, USA",2023.10.04,Wednesday,09:30,25 mins
+"116 N 16th St, Sacramento, CA 95811, USA","2947 Ottumwa Dr, Sacramento, CA 95835, USA",2023.10.04,Wednesday,09:30,14 mins
+"116 N 16th St, Sacramento, CA 95811, USA","301 Harter Ave, Woodland, CA 95776, USA",2023.10.04,Wednesday,09:30,33 mins
