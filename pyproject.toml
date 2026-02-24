@@ -1,19 +1,13 @@
-[tool.poetry]
+[project]
 name = "commute-tracker"
 version = "0.1.0"
-description = ""
-authors = ["Maci Miri <macis.miri@gmail.com>"]
+description = "Add your description here"
 readme = "README.md"
-packages = [{include = "commute_tracker"}]
-
-[tool.poetry.dependencies]
-python = "<3.13, >=3.9"
-googlemaps = "^4.10.0"
-pandas = "^2.1.1"
-matplotlib = "^3.8.0"
-polars = "^0.19.6"
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires-python = ">=3.13"
+dependencies = [
+    "apscheduler>=3.11.2",
+    "googlemaps>=4.10.0",
+    "matplotlib>=3.10.8",
+    "polars>=1.38.1",
+    "schedule>=1.2.2",
+]
